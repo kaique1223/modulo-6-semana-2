@@ -1,0 +1,23 @@
+/* Estilizando o formulário gerado pelo Bootstrap */
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Estilizando o botão de envio do formulário */
+.btn-primary {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Estilizando os campos do formulário (opcional) */
+.form-control {
+    background-color: #d4deea;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
